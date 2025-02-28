@@ -1,0 +1,7 @@
+streamlit
+numpy
+scikit-learn
+textblob
+matplotlib
+flask
+rain 
